@@ -1,10 +1,4 @@
-M3_02_Nicolas_Rodriguez_Becerril/EJERCICIO3.py /
-@NiCo7889
-NiCo7889 cambio
-Latest commit c9ff833 1 hour ago
- History
- 1 contributor
-20 lines (16 sloc)  637 Bytes
+
 
 """
 Código a evaluar:
